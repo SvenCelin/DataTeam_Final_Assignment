@@ -1,0 +1,5 @@
+,Decision Tree,Random Forest,Improvment
+test_accuracy,38.9,48.9,10.0
+test_average_precision,64.4,66.2,1.8
+test_recall,38.1,53.2,15.1
+test_f1,32.7,49.9,17.1
